@@ -14,13 +14,13 @@ greenlet==0.4.13          # via gevent
 gunicorn==19.7.1
 idna==2.6                 # via requests
 itsdangerous==0.24        # via flask
-jinja2==2.10              # via flask
+jinja2==2.11.3              # via flask
 markupsafe==1.0           # via jinja2
 psycopg2==2.7.4
 requests-futures==0.9.7
 requests==2.18.4
 semantic-version==2.6.0
 six==1.11.0               # via flask-cors
-sqlalchemy==1.2.6
+sqlalchemy==1.2.18
 urllib3==1.22             # via requests
 werkzeug==0.14.1          # via flask
